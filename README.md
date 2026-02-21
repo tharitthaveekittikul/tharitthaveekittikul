@@ -3,7 +3,7 @@
 **Software Developer | Full-Stack & Data**
 Bangkok, Thailand 🇹🇭
 
-Professional developer specializing in high-performance system architecture. Currently focusing on **Backend Engineering** and **Data Analysis**, leveraging a strong foundation in iOS and Full-Stack development to build scalable, data-driven solutions.
+Software developer specializing in high-performance system architecture. Currently focusing on **Backend Engineering** and **Data Analysis**, leveraging a strong foundation in iOS and Full-Stack development to build scalable, data-driven solutions.
 
 ---
 
