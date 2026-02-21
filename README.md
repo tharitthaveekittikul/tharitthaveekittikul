@@ -1,20 +1,63 @@
-<h1 align="center">Hi 👋, I'm Tharit Thaveekittikul</h1>
-<h3 align="center">I'm from Thailand.</h3>
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/cute-anime-kitten-typing-cat-bwqjywmrsxcjv5o3.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tharitthaveekittikul&label=Profile%20views&color=0e75b6&style=flat" alt="tharitthaveekittikul" /> </p>
+# Hi there, I'm Tharit Thaveekittikul 👋
 
-- 📫 How to reach me **tharit.thaveekittikul@gmail.com**
+**Software Developer | Full-Stack & Data**
+Bangkok, Thailand 🇹🇭
 
-<h3 align="left">Connect with me:</h3>
+Professional developer specializing in high-performance system architecture. Currently focusing on **Backend Engineering** and **Data Analysis**, leveraging a strong foundation in iOS and Full-Stack development to build scalable, data-driven solutions.
+
+---
+
+### 🛠️ Technical Stack
+
+| Category              | Tools & Technologies                                                                    |
+| :-------------------- | :-------------------------------------------------------------------------------------- |
+| **Languages**         | Swift, TypeScript/JavaScript, Java, Python, SQL, Bash                                   |
+| **Backend & API**     | Node.js (NestJS/Express), Java Spring Boot, RESTful APIs, BFF Architecture, SSE         |
+| **Data & Analysis**   | Python (Pandas/NumPy), Web Scraping (Playwright/BeautifulSoup), ETL Pipelines, BigQuery |
+| **Mobile & Frontend** | SwiftUI (MVVM), ActivityKit (Live Activities), React, Next.js, Tailwind CSS             |
+| **Database & Cloud**  | PostgreSQL, MySQL, MongoDB, Firebase, BigQuery, AWS (EC2/S3), GCP (Cloud Run)           |
+| **DevOps & Tools**    | Docker, Git, CI/CD (GitHub Actions), Selenium, n8n, Synology NAS, Linux                 |
+
+---
+
+### 📈 Career Highlights
+
+#### **Software Developer @ POMPKINS**
+
+_Jul 2024 – Nov 2025_
+
+- **Architecture:** Adopted the **Backend-for-Frontend (BFF)** pattern to abstract complex logic and improve mobile/web stability.
+- **Real-time Systems:** Developed a production-grade iOS app using **SwiftUI** with **SSE** and **Live Activities** for real-time order tracking.
+- **Ecosystem:** Built SEO-optimized Web platforms (Next.js) and internal Admin dashboards for revenue and merchant monitoring.
+
+#### **Software Developer Intern @ SCB Tech X**
+
+_Jun 2023 – Mar 2024_
+
+- **Data Engineering:** Designed and implemented scheduled migration pipelines from **Azure Blob Storage to AWS S3** using Spring Boot Cron jobs.
+- **Security Automation:** Built an automated vulnerability parser for Jenkins reports, reducing analysis time from **hours to minutes**.
+
+---
+
+### 🧪 Featured Projects
+
+- **[WhatNow](https://apps.apple.com/us/app/whatnow-%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3%E0%B8%94/id6756788566):** Decision-making MVP using **NestJS** on **GCP Cloud Run** and Python-based data scraping.
+- **[Utiliship](https://apps.apple.com/us/app/utiliship/id6756077815):** A high-performance utility application built with **SwiftUI** and modular architecture.
+- **LMS Automation Tool:** End-to-end Python pipeline using **OpenAI API** and **Selenium** to automate 1,000+ complex university exam entries.
+- **Stock Monitoring System:** Self-hosted **n8n** automation on **Synology NAS** integrating Finnhub API and Notion for real-time market alerts.
+
+---
+
+### 📫 Connect with Me
+
+- **LinkedIn:** [linkedin.com/in/paotharit](https://linkedin.com/in/paotharit)
+- **Portfolio:** [Notion Portfolio](https://truth-lemonade-c88.notion.site/Tharit-Thaveekittikul-Portfolio-2d297874135b8096999aea99cecced4a?pvs=74)
+- **Resume:** [View My Resume](https://drive.google.com/file/d/19t-XkRE_UdC-bYId55rKd94pwJOufv95/view)
+- **Email:** tharit.thaveekittikul@gmail.com
+
+<br/>
+
 <p align="left">
-<a href="https://linkedin.com/in/paotharit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paotharit" height="30" width="40" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=tharitthaveekittikul&show_icons=true&theme=transparent" alt="Tharit's GitHub stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharitthaveekittikul&layout=compact&theme=transparent" alt="Top Langs" height="160" />
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tharitthaveekittikul&show_icons=true&locale=en&layout=compact" alt="tharitthaveekittikul" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tharitthaveekittikul&show_icons=true&locale=en" alt="tharitthaveekittikul" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tharitthaveekittikul&" alt="tharitthaveekittikul" /></p>
