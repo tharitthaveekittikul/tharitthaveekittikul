@@ -57,7 +57,3 @@ _Jun 2023 – Mar 2024_
 
 <br/>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tharitthaveekittikul&show_icons=true&theme=transparent" alt="Tharit's GitHub stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharitthaveekittikul&layout=compact&theme=transparent" alt="Top Langs" height="160" />
-</p>
