@@ -51,7 +51,7 @@ _Jun 2023 – Mar 2024_
 ### 📫 Connect with Me
 
 - **LinkedIn:** [linkedin.com/in/paotharit](https://linkedin.com/in/paotharit)
-- **Portfolio:** [Notion Portfolio](https://truth-lemonade-c88.notion.site/Tharit-Thaveekittikul-Portfolio-2d297874135b8096999aea99cecced4a?pvs=74)
+- **Portfolio:** [Portfolio](https://paotharit.me)
 - **Resume:** [View My Resume](https://drive.google.com/file/d/19t-XkRE_UdC-bYId55rKd94pwJOufv95/view)
 - **Email:** tharit.thaveekittikul@gmail.com
 
